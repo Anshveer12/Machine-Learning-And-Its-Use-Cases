@@ -50,5 +50,6 @@ ML tackles problems that were previously unsolvable due to complexity, such as:
 - Protein structure prediction
 - Natural language understanding
 
-[🔙 Back to Repository Overview](../README.md)
+[Back to Repository Overview](README.md)
+
 
